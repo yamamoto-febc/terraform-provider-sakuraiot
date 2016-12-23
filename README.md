@@ -114,6 +114,8 @@ Terraform定義ファイル(tfファイル)を作成してご利用ください�
   - [サービス:Incoming-Webhook](docs/configuration/resources/service_incoming_webhook.md)
   - [サービス:Outgoing-Webhook](docs/configuration/resources/serivce_outgoing_webhook.md)
 
+それぞれのリソースは[データソース](docs/README.md#データソース)としても利用可能です。
+
 ## License
 
   This project is published under [Apache 2.0 License](LICENSE).
