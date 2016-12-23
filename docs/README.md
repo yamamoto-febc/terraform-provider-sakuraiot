@@ -24,4 +24,8 @@ Terraform for さくらのIoT Platformをご利用いただきありがとうご
 
 ## データソース
 
-TODO 後で書く
+  - [プロジェクト](configuration/datasource/project.md)
+  - [モジュール](configuration/datasource/module.md)
+  - [サービス:WebSocket](configuration/datasource/service_websocket.md)
+  - [サービス:Incoming-Webhook](configuration/datasource/service_incoming_webhook.md)
+  - [サービス:Outgoing-Webhook](configuration/datasource/service_outgoing_webhook.md)
