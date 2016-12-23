@@ -127,7 +127,7 @@ $ export SAKURAIOT_AUTH_SECRET="作成したAPIキーのシークレット"
 
 手軽に試せるようにTerraformとTerraform for さくらのIoT Platformを同梱したDockerイメージを用意しています。
 
-[Terraform for さくらのIoT Platform Dockerイメージ](https://hub.docker.com/r/yamamoto-febc/terraform-for-sakuraiot/)
+[Terraform for さくらのIoT Platform Dockerイメージ](https://hub.docker.com/r/yamamotofebc/terraform-for-sakuraiot/)
 
 以下のように実行します。
 
