@@ -4,7 +4,7 @@
 
 Terraform for さくらのIoT Platformをご利用いただきありがとうございます。
   
-#### [[インストール]](Installation.md)  
+#### [インストール](installation.md)  
 
 > Terraformのインストール〜APIキーの作成
 
