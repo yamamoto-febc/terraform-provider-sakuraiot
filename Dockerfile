@@ -1,4 +1,4 @@
-FROM golang:1.7.4-alpine
+FROM golang:1.8-alpine
 MAINTAINER Kazumichi Yamamoto <yamamoto.febc@gmail.com>
 
 RUN set -x && apk add --no-cache bash git make zip
